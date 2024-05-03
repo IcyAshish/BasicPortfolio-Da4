@@ -1,0 +1,98 @@
+.info{
+    background-color: #EEEEEE;
+    text-align: center;
+    position: relative;
+    padding-top: 50px;
+    height: 200px;
+
+}
+
+hr{
+    margin: 0;
+}
+
+.contactme{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btc{
+    padding: 20px;
+    margin-top: 0;
+}
+.botcontainer{
+    background-color: #C3DBD9;
+    text-align: center; 
+}
+
+.img1{
+    padding-top: 20px;
+    height: 20%;
+    width: 20%;
+    border-radius: 100%;
+}
+
+.skills{
+    margin: 0;
+    background-color: #C3DBD9;
+    text-align: center;
+}
+.midcontainer{
+    background-color: #C3DBD9;
+    text-align: center;
+}
+
+.ve{
+    width: 30%;
+    height  30%;
+}
+
+.gaming{
+   
+    width:30%;
+    height:30%;
+    
+}
+h1{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+.img{
+    padding-top: 80px;
+    width: 37%;
+    height: 37%;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.midcontainer{
+    
+}
+
+.botcontainer{
+    
+}
